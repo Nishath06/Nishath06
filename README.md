@@ -14,7 +14,7 @@
 - 🐧 **RHCSA Certified** – Strong foundation in Linux system administration
 - 🚀 Passionate about **DevOps, automation, scripting**, and backend development
 - 💬 Ask me about: **FastAPI, Linux, Git, CI/CD, PostgreSQL, and RESTful API design**
-- 📫 Reach me at: **nishathjp@gmail.com**
+- 📫 Reach me at: **jpnishath@gmail.com**
 - 🥋 Also a **National-Level Karate Judge & Tech Speaker!**
 
 ---
