@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishath J P</h1>
-<h3 align="center">A DevOps Enthusiast | RHCSA Certified | FastAPI Backend Developer</h3>
+<h3 align="center">A DevOps Enthusiast | RHCSA Certified | AWS Certified | FastAPI Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1C71D8&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -11,6 +11,7 @@
 
 - 🎓 Pursuing **Computer Science and Engineering**
 - 🛠️ Skilled in building **robust APIs with FastAPI**
+- 📡 **AWS Certified Soultions Architect Associate SAA-C03** - Strong in Building Cloud Infrastructures 
 - 🐧 **RHCSA Certified** – Strong foundation in Linux system administration
 - 🚀 Passionate about **DevOps, automation, scripting**, and backend development
 - 💬 Ask me about: **FastAPI, Linux, Git, CI/CD, PostgreSQL, and RESTful API design**
