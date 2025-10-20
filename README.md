@@ -35,7 +35,7 @@
 ## 🏆 Certifications
 
 - 🧾 **Red Hat Certified System Administrator (RHCSA)**
-- 📡 AWS Educate: *Getting Started with Networking*
+- 📡 **AWS Certified Soultions Architect Associate SAA-C03**
 - 🛡️ Ongoing Learning: DevOps Tooling & Secure Backend Development
 
 ---
