@@ -53,6 +53,7 @@
 - 🧾 **Red Hat Certified System Administrator (RHCSA)**
 - ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)**
 - ☁️ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- ☁️ **Microsoft Certified: Azure DevOps Expert (AZ-400)**
 - 🎯 Preparing for **AZ-400 – DevOps Engineer Expert**
 
 ---
