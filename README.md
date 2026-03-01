@@ -17,7 +17,7 @@
 - 🐧 **Red Hat Certified System Administrator (RHCSA)** with a strong Linux foundation
 - ⚙️ Experience in building **backend services and REST APIs using FastAPI**
 - 🔁 Passionate about **DevOps practices, CI/CD pipelines, infrastructure automation, and cloud reliability**
-- 🧠 Currently preparing for **AZ-400 (Designing & Implementing Microsoft DevOps Solutions)**
+- 🧠 Currently preparing for **AZ-305 (Designing Microsoft Azure Infrastructure Solutions)**
 - 💬 Ask me about: **Linux, Cloud Architecture, CI/CD, Docker, Git, FastAPI, PostgreSQL**
 - 🥋 Fun fact: **National-Level Karate Judge** and **Tech Speaker**
 - 📫 Reach me at: **jpnishath@gmail.com**
