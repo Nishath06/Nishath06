@@ -35,6 +35,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -54,7 +56,7 @@
 - ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)**
 - ☁️ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - ☁️ **Microsoft Certified: Azure DevOps Expert (AZ-400)**
-- 🎯 Preparing for **AZ-400 – DevOps Engineer Expert**
+- 🎯 Preparing for **AZ-305 – Solutions Architect Expert**
 
 ---
 
