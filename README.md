@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🚀 Cloud & DevOps Engineer | ☁️ AWS SAA | ☁️ Azure AZ-104, AZ-400 | 🐧 RHCSA | ⚙️ Automation
+🚀 Cloud & DevOps Engineer | ☁️ AWS SAA, SOA | ☁️ Azure AZ-104, AZ-400 | 🐧 RHCSA | ⚙️ Automation
 </h3>
 
 ---
